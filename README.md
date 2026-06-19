@@ -6,7 +6,7 @@ An end-to-end Sales Analytics project covering **3 Indian states**, **10 product
 
 ## 📸 Dashboard Preview
 
-![Sales Analytics Dashboard](./screenshorts/dashboard.png)
+![Sales Analytics Dashboard](screenshots/Dashboard.png)
 
 ---
 
