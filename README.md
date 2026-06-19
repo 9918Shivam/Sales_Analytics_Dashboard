@@ -2,6 +2,12 @@
 
 An end-to-end Sales Analytics project covering **3 Indian states**, **10 products**, and **a full year (Jan–Dec 2024)** of transactional data. Raw Excel data was cleaned and transformed, then visualized through an interactive **Power BI dashboard** that enables regional, product-level, and time-based sales analysis.
 
+------
+
+## 📸 Dashboard Preview
+
+![Sales Analytics Dashboard](./screenshorts/dashboard.png)
+
 ---
 
 ## 📌 Table of Contents
